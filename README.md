@@ -1,2 +1,2 @@
 # GoGoGKE
-Golang POC to test capabilities of the GKE
+Golang POC to test capabilities of GKE APIs
